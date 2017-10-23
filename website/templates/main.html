@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Phrase for place</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/pure/pure-min.css') }}">
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/auto-complete.css') }}">
+        <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+        <script type="text/javascript" src="{{ url_for('static', filename='js/auto-complete.min.js') }}"></script>
+    </head>
+    <body>
+        <div class="pure-g">
+            <div class="pure-u-1-1 container title"><h1>Phrase for place</h1></div>
+
+        </div>
+        <div class="pure-g">
+            <div class="pure-u-1-1 container">
+                <form class="pure-form">
+                    <fieldset>
+                        <input type="search" class="search" placeholder="search">
+                        <button type="button" class="pure-button pure-button-primary">Sign in</button>
+                    </fieldset>
+                </form>
+            </div>
+
+        </div>
+
+        <script type="text/javascript" src="{{ url_for('static', filename='js/app.js') }}"></script>
+    </body>
+
+
+</html>
+
+

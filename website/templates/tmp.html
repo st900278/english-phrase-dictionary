@@ -1,0 +1,16 @@
+{% extends "layout.html" %} {% block body %}
+<center>
+    <table class="autowd">
+        {%- for ch in output %}
+        <tr>
+            <td style="color: seagreen;">Char : </td>
+            <td style="color: seagreen;">{{ ch[0] }}</td>
+            <td style="color: royalblue;">Last Char : </td>
+            <td style="color: royalblue;">{{ ch[1] }}</td>
+            <td style="color: brown;">Next Char : </td>
+            <td style="color: brown;">{{ ch[2] }}</td>
+        </tr>
+        {%- endfor %}
+    </table>
+</center>
+{% endblock %}

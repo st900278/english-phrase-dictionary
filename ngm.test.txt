@@ -1,0 +1,1478 @@
+意想不到|V 的|O 困難|N	2
+克服不了|V 的|O 困難|N	2
+各式各樣|ADJ 的|O 困難|N	3
+遭遇到|V 的|O 困難|N	2
+之所以|O 困難|ADJ	2
+那麼多|O 的|O 困難|N	2
+腦神經|N 抑制|V 困難|N	2
+專注力|N 減退|V 或|O 決定|V 困難|N	2
+腦神經|N 生理|N 抑制|V 困難|N	2
+腦神經|N 生理|N 上|O 的|O 困難|N	3
+消極性|N 的|O 消除|V 困難|N	2
+越來越|ADV 困難|ADJ 了|O	2
+愈來愈|ADV 困難|ADJ 了|O	2
+愈來愈|ADV 困難|ADJ	5
+做起來|ADV 困難|ADJ	2
+越來越|ADV 困難|ADJ	14
+做起來|ADV 很|ADV 困難|ADJ	3
+探討|V 學習|V 困難|N 和|O 情緒|N	2
+探討|V 學習|V 困難|N 和|O	2
+探討|V 學習|V 困難|N	2
+幫助|V 學習|V 困難|ADJ 的|O 孩子|N	2
+幫助|V 學習|V 困難|ADJ 的|O	2
+造成|V 呼吸|V 困難|ADJ	3
+覺得|V 呼吸|V 困難|ADJ	3
+發生|V 呼吸|V 困難|ADJ	3
+感到|V 呼吸|V 困難|ADJ	3
+幫助|V 學習|V 困難|ADJ	2
+造成|V 溝通|V 的|O 困難|N	4
+解決|V 學習|V 的|O 困難|N	2
+造成|V 適應|V 上|O 的|O 困難|N	2
+造成|V 學習|V 上|O 的|O 困難|N	2
+發生|V 適應|V 上|O 的|O 困難|N	2
+克服|V 適應|V 上|O 的|O 困難|N	2
+幫助|V 別人|O 解決|V 困難|N	2
+遇到|V 什麼|O 困難|N	8
+克服|V 一切|O 困難|N	7
+沒有|V 什麼|O 困難|N	4
+遇到|V 許多|O 困難|N	3
+面對|V 許多|O 困難|N	2
+遭遇|V 什麼|O 困難|N	2
+遇到|V 任何|O 困難|N	2
+碰到|V 什麼|O 困難|N	2
+沒有|V 任何|O 困難|N	2
+歷經|V 種種|O 困難|N	2
+克服|V 這些|O 困難|N	2
+克服|V 諸多|O 困難|N	2
+克服|V 種種|O 困難|N	2
+歷經|V 許多|O 困難|ADJ	2
+克服|V 一切|O 困難|ADJ	2
+決定|V 心理|N 適應|V 困難|N 為|V	2
+有關|V 學童|N 學習|V 困難|N 和|O	2
+決定|V 心理|N 適應|V 困難|N	2
+有關|V 學童|N 學習|V 困難|N	2
+發生|V 困難|N 等等|O	2
+導入|V 市場|N 機能|N 來得|ADV 困難|ADJ	6
+紓解|V 客戶|N 困難|N	2
+遭遇|V 困難|N 最多|ADJ 的|O 一|O	3
+遭遇|V 困難|N 最多|ADJ 的|O	3
+遭遇|V 困難|N 最多|ADJ	3
+發現|V 困難|N 重重|ADJ	2
+適應|V 困難|N 為|V 原因|N 前|O	2
+適應|V 困難|N 為|V 原因|N	2
+適應|V 困難|N 為|V	2
+學習|V 困難|N 和|O 情緒|N 障礙|N	3
+遇到|V 挫折|N 或|O 困難|N 時|O	2
+學習|V 困難|N 和|O 情緒|N	4
+面對|V 困難|N 與|O 挑戰|N	3
+遇到|V 挫折|N 或|O 困難|N	2
+解決|V 困難|N 的|O 能力|N	2
+解決|V 困難|N 的|O 經驗|N	2
+克服|V 困難|N 的|O 能力|N	2
+解決|V 困難|N 的|O 成功|ADJ 經驗|N	3
+解決|V 困難|N 的|O 成功|ADJ	3
+彌補|V 困難|N 和|O 辛苦|ADJ	2
+閱讀|V 演算|N 上|O 的|O 困難|N	2
+解決|V 困難|N 的|O	9
+碰到|V 困難|N 時|O	9
+遭遇|V 困難|N 時|O	7
+學習|V 困難|N 和|O	6
+克服|V 困難|N 的|O	5
+面對|V 困難|N 時|O	4
+面對|V 困難|N 與|O	3
+面對|V 困難|N 和|O	3
+遇到|V 困難|N 和|O	3
+遇上|V 困難|N 時|O	3
+克服|V 困難|N 和|O	3
+遇到|V 困難|N 時|O	25
+適應|V 困難|N 和|O	2
+發生|V 困難|N 時|O	2
+戰勝|V 困難|N 的|O	2
+彌補|V 困難|N 和|O	2
+克服|V 困難|N 與|O	2
+克服|V 困難|N 中|O	2
+度過|V 人生|N 最|ADV 困難|ADJ 的|O	5
+度過|V 人生|N 最|ADV 困難|ADJ	5
+碰到|V 困難|N 就|ADV 想|V 依賴|V	2
+碰到|V 困難|N 就|ADV 想|V	2
+碰到|V 困難|N 就|ADV	3
+遇到|V 困難|N 便|ADV	2
+克服|V 困難|N 去|ADV	2
+遇到|V 困難|N 就|ADV	10
+克服|V 困難|N	72
+遇到|V 困難|N	50
+遭到|V 困難|N	4
+毫無|V 困難|N	4
+遇上|V 困難|N	3
+解決|V 困難|N	29
+發生|V 困難|N	23
+閱讀|V 困難|N	2
+運輸|V 困難|N	2
+造成|V 困難|N	2
+逃避|V 困難|N	2
+補給|V 困難|N	2
+發現|V 困難|N	2
+消除|V 困難|N	2
+決定|V 困難|N	2
+構成|V 困難|N	2
+有所|V 困難|N	2
+排出|V 困難|N	2
+戰勝|V 困難|N	2
+彌補|V 困難|N	2
+面對|V 困難|N	18
+遭遇|V 困難|N	16
+碰到|V 困難|N	16
+學習|V 困難|N	15
+適應|V 困難|N	11
+沒有|V 困難|N	10
+抑制|V 困難|N	10
+變得|V 十分|ADV 困難|ADJ	2
+學習|V 困難|ADJ 的|O 孩子|N ──|O	2
+克服|V 困難|ADJ 的|O 精神|N 和|O	2
+學習|V 困難|ADJ 的|O 孩子|N	7
+遇到|V 困難|ADJ 的|O 時候|N	5
+適應|V 困難|ADJ 的|O 時期|N	2
+看似|V 困難|ADJ 的|O 事情|N	2
+沒有|V 太多|ADJ 的|O 困難|N	2
+學習|V 困難|ADJ 的|O 主因|N	2
+克服|V 困難|ADJ 的|O 精神|N	2
+克服|V 困難|ADJ 的|O 方法|N	2
+呼吸|V 困難|ADJ 地|O 看|V 著|O	2
+呼吸|V 困難|ADJ 地|O 看|V	2
+遇到|V 困難|ADJ 或|O 不|ADV	2
+遇到|V 困難|ADJ 的|O	7
+適應|V 困難|ADJ 的|O	4
+毫無|V 困難|ADJ 地|O	4
+解決|V 困難|ADJ 的|O	3
+呼吸|V 困難|ADJ 的|O	3
+面對|V 困難|ADJ 的|O	2
+遇到|V 困難|ADJ 時|O	2
+遇到|V 困難|ADJ 或|O	2
+造成|V 困難|ADJ 的|O	2
+認為|V 困難|ADJ 的|O	2
+覺得|V 困難|ADJ 了|O	2
+自慰|V 有害|ADJ 嗎|O	2
+經營|V 困難|ADJ 的|O	2
+看似|V 困難|ADJ 的|O	2
+毫無|V 困難|ADJ 的|O	2
+戰勝|V 困難|ADJ 的|O	2
+建構|V 困難|ADJ 的|O	2
+完成|V 困難|ADJ 的|O	2
+呼吸|V 困難|ADJ 地|O	2
+克服|V 困難|ADJ 的|O	17
+學習|V 困難|ADJ 的|O	12
+碰到|V 困難|ADJ	8
+感到|V 困難|ADJ	8
+排尿|V 困難|ADJ	7
+閱讀|V 困難|ADJ	6
+毫無|V 困難|ADJ	6
+面臨|V 困難|ADJ	5
+造成|V 困難|ADJ	5
+補給|V 困難|ADJ	5
+經營|V 困難|ADJ	5
+應付|V 困難|ADJ	5
+呼吸|V 困難|ADJ	49
+發生|V 困難|ADJ	4
+感覺|V 困難|ADJ	4
+遇到|V 困難|ADJ	39
+認為|V 困難|ADJ	3
+自慰|V 有害|ADJ	3
+碰上|V 困難|ADJ	3
+看到|V 困難|ADJ	3
+生活|V 困難|ADJ	3
+排除|V 困難|ADJ	3
+排便|V 困難|ADJ	3
+戰勝|V 困難|ADJ	3
+學習|V 困難|ADJ	28
+克服|V 困難|ADJ	21
+陷入|V 困難|ADJ	2
+運作|V 困難|ADJ	2
+遇上|V 困難|ADJ	2
+謀生|V 困難|ADJ	2
+說話|V 困難|ADJ	2
+行走|V 困難|ADJ	2
+看似|V 困難|ADJ	2
+排出|V 困難|ADJ	2
+挑戰|V 困難|ADJ	2
+性交|V 困難|ADJ	2
+建構|V 困難|ADJ	2
+幾經|V 困難|ADJ	2
+帶來|V 困難|ADJ	2
+就業|V 困難|ADJ	2
+小便|V 困難|ADJ	2
+射精|V 困難|ADJ	2
+完成|V 困難|ADJ	2
+不畏|V 困難|ADJ	2
+面對|V 困難|ADJ	18
+覺得|V 困難|ADJ	12
+適應|V 困難|ADJ	11
+解決|V 困難|ADJ	11
+學習|V 上|O 遭遇|V 困難|N 時|O	2
+減退|V 或|O 決定|V 困難|N	2
+學習|V 上|O 遭遇|V 困難|N	2
+協助|V 他|O 克服|V 困難|N	2
+忽略|V 了|O 學習|V 困難|ADJ	2
+修行|V 若|O 遇到|V 困難|ADJ	2
+勇於|V 向|O 困難|N 挑戰|V	2
+假設|V 的|O 能力|N 比較|ADV 困難|ADJ	2
+學習|V 和|O 情緒|N 困難|ADJ 學童|N	3
+學習|V 和|O 情緒|N 困難|ADJ	4
+保管|V 之|O 困難|N 等|O	2
+想像|V 的|O 困難|N 多|ADJ 了|O	2
+想像|V 的|O 困難|N 多|ADJ	2
+學習|V 的|O 困難|N	7
+面對|V 的|O 困難|N	6
+溝通|V 的|O 困難|N	6
+想像|V 的|O 困難|N	6
+克服|V 的|O 困難|N	6
+面臨|V 的|O 困難|N	5
+遇到|V 了|O 困難|N	4
+帶來|V 的|O 困難|N	3
+遭到|V 的|O 困難|N	2
+造成|V 的|O 困難|N	2
+覺得|V 有|O 困難|N	2
+引起|V 的|O 困難|N	2
+勇於|V 向|O 困難|N	2
+保管|V 之|O 困難|N	2
+遭遇|V 的|O 困難|N	11
+適應|V 的|O 困難|N	11
+遇到|V 的|O 困難|N	10
+看到|V 了|O 困難|ADJ 的|O 可能|N	2
+表達|V 有|O 困難|ADJ 的|O 人|N	2
+表達|V 有|O 困難|ADJ 的|O	2
+看到|V 了|O 困難|ADJ 的|O	2
+幫助|V 有|O 困難|ADJ 的|O	2
+想像|V 中|O 困難|ADJ	3
+表達|V 有|O 困難|ADJ	2
+看到|V 了|O 困難|ADJ	2
+有利|V 或|O 有害|ADJ	2
+幫助|V 有|O 困難|ADJ	2
+學習|V 上|O 的|O 困難|N	8
+想像|V 中|O 的|O 困難|N	3
+學習|V 上|O 有|O 困難|N	3
+適應|V 上|O 的|O 困難|N	21
+表達|V 上|O 的|O 困難|N	2
+溝通|V 上|O 的|O 困難|N	2
+抑制|V 上|O 的|O 困難|N	2
+克服|V 各|O 種|O 困難|N	2
+碰到|V 各|O 種|O 困難|ADJ 的|O	2
+碰到|V 各|O 種|O 困難|ADJ	2
+遇到|V 的|O 各|O 種|O 困難|N	3
+走路|V 很|ADV 困難|ADJ	2
+覺得|V 很|ADV 困難|ADJ	2
+發現|V 最|ADV 困難|ADJ	2
+走路|V 都|ADV 有|O 困難|N	2
+呼吸|V 都|ADV 有|O 困難|N	2
+走路|V 都|ADV 很|ADV 困難|ADJ	2
+說話|V 並|ADV 不|ADV 困難|ADJ	2
+面臨|V 極|ADV 大|ADJ 的|O 困難|N	4
+遇到|V 很|ADV 大|ADJ 的|O 困難|N	3
+面臨|V 最|ADV 大|ADJ 的|O 困難|N	2
+別人|O 解決|V 困難|N	2
+許多|O 看似|V 困難|ADJ 的|O 事情|N	2
+之後|O 適應|V 困難|ADJ 的|O 時期|N	2
+許多|O 看似|V 困難|ADJ 的|O	2
+之後|O 適應|V 困難|ADJ 的|O	2
+許多|O 看似|V 困難|ADJ	2
+之後|O 適應|V 困難|ADJ	2
+以及|O 保管|V 之|O 困難|N 等|O	2
+以及|O 保管|V 之|O 困難|N	2
+他們|O 覺得|V 有|O 困難|N	2
+自己|O 人際|N 關係|N 有|O 困難|N	2
+其他|O 小說|N 複雜|ADJ 與|O 困難|ADJ	2
+種種|O 承擔|N 和|O 克服|V 困難|N	2
+許多|O 困難|N 和|O	3
+什麼|O 困難|N 嗎|O	3
+什麼|O 困難|N 吧|O	3
+種種|O 困難|N 而|O	2
+一點|O 困難|N 也|ADV 沒有|V	3
+許多|O 困難|N 要|ADV 克服|V	2
+一點|O 困難|N 都|ADV 沒有|V	2
+許多|O 困難|N 要|ADV	3
+一點|O 困難|N 也|ADV	3
+什麼|O 困難|N 都|ADV	2
+一點|O 困難|N 都|ADV	2
+一切|O 困難|N 都|ADV	2
+這些|O 困難|N	9
+很多|O 困難|N	9
+諸多|O 困難|N	6
+一點|O 困難|N	6
+什麼|O 困難|N	57
+那些|O 困難|N	4
+許多|O 困難|N	32
+無數|O 困難|N	3
+部份|O 困難|N	2
+甚麼|O 困難|N	2
+太多|O 困難|N	2
+多少|O 困難|N	2
+其他|O 困難|N	2
+不少|O 困難|N	2
+種種|O 困難|N	16
+任何|O 困難|N	15
+一切|O 困難|N	15
+重重|O 困難|N	12
+一些|O 困難|N	11
+起來|O 十分|ADV 困難|ADJ	3
+固然|O 困難|ADJ 重重|ADJ	2
+反而|O 有害|ADJ	9
+什麼|O 困難|ADJ	7
+任何|O 困難|ADJ	4
+這些|O 困難|ADJ	3
+許多|O 困難|ADJ	3
+而且|O 有害|ADJ	3
+固然|O 困難|ADJ	3
+雖然|O 困難|ADJ	2
+他們|O 困難|ADJ	2
+不僅|O 困難|ADJ	2
+一切|O 困難|ADJ	2
+一些|O 困難|ADJ	2
+自身|O 的|O 缺點|N 或|O 困難|N	2
+自己|O 的|O 困難|N	8
+更多|O 的|O 困難|N	4
+他們|O 的|O 困難|N	4
+種種|O 的|O 困難|N	3
+所有|O 的|O 困難|N	3
+一切|O 的|O 困難|N	3
+第一|O 個|O 困難|N	2
+很多|O 的|O 困難|N	2
+反而|O 有|O 困難|N	2
+別人|O 有|O 困難|N	2
+其他|O 的|O 困難|N	2
+不但|O 有|O 困難|N	2
+而是|O 在|O 困難|ADJ 之中|O	2
+而是|O 在|O 困難|ADJ	2
+任何|O 人|N 有害|ADJ 處|N 的|O	2
+任何|O 人|N 有害|ADJ 處|N	2
+任何|O 人|N 有害|ADJ	2
+自己|O 所|ADV 面臨|V 的|O 困難|N	2
+起來|O 很|ADV 困難|ADJ	2
+雖然|O 總|ADV 有|O 許多|O 困難|N	2
+一點|O 也|ADV 不|ADV 困難|ADJ	4
+心理|N 適應|V 困難|N 為|V 原因|N	2
+心理|N 適應|V 困難|N 為|V	2
+學童|N 學習|V 困難|N 和|O 情緒|N	2
+孩子|N 遇到|V 困難|N 時|O	3
+學童|N 學習|V 困難|N 和|O	2
+生理|N 抑制|V 困難|N	4
+生活|N 適應|V 困難|N	3
+孩子|N 遇到|V 困難|N	3
+生活|N 發生|V 困難|N	2
+心理|N 適應|V 困難|N	2
+定力|N 克服|V 困難|N	2
+學童|N 學習|V 困難|N	2
+孩童|N 學習|V 困難|N	2
+日後|N 修行|V 若|O 遇到|V 困難|ADJ	2
+生活|N 適應|V 的|O 困難|N	3
+人和|N 表達|V 有|O 困難|ADJ 的|O	2
+人和|N 表達|V 有|O 困難|ADJ	2
+心理|N 適應|V 上|O 的|O 困難|N	2
+市場|N 機能|N 來得|ADV 困難|ADJ	6
+有害|N 案例|N 非常|ADV 稀少|ADJ	2
+有害|N 案例|N 非常|ADV	2
+政府|N 財政|N 困難|ADJ	4
+國家|N 財政|N 困難|ADJ	2
+學習|N 障礙|N 和|O 情緒|N 困難|ADJ	7
+父母|N 婚姻|N 有|O 困難|N 時|O	2
+父母|N 婚姻|N 有|O 困難|N	2
+國家|N 財政|N 的|O 困難|N	2
+人際|N 關係|N 有|O 困難|N	2
+神經|N 生理|N 上|O 的|O 困難|N	2
+小便|N 困難|N 及|O	2
+學習|N 困難|N	7
+財政|N 困難|N	6
+經濟|N 困難|N	6
+生活|N 困難|N	3
+閱讀|N 困難|N	2
+發音|N 困難|N	2
+有害|N 案例|N	2
+成事|N 困難|N	2
+小便|N 困難|N	2
+客戶|N 困難|N	2
+機能|N 來得|ADV 困難|ADJ	6
+生活|N 比較|ADV 困難|ADJ	3
+生活|N 十分|ADV 困難|ADJ	3
+財政|N 十分|ADV 困難|ADJ	2
+處境|N 十分|ADV 困難|ADJ	2
+能力|N 比較|ADV 困難|ADJ	2
+生活|N 非常|ADV 困難|ADJ	2
+工作|N 相當|ADV 困難|ADJ	2
+工作|N 更加|ADV 困難|ADJ	2
+培養|N 必定|ADV 困難|ADJ	2
+情緒|N 困難|ADJ 孩童|N 的|O	2
+上坡|N 困難|ADJ 下坡|N 易|ADJ	2
+情緒|N 困難|ADJ 學童|N	4
+藝術|N 同樣|ADJ 困難|N	3
+情緒|N 困難|ADJ 孩童|N	2
+上坡|N 困難|ADJ 下坡|N	2
+身體|N 有害|ADJ 無益|ADJ	2
+算術|N 特別|ADJ 困難|ADJ	2
+情緒|N 困難|ADJ 的|O 孩童|N	2
+小說|N 複雜|ADJ 與|O 困難|ADJ	2
+情緒|N 困難|ADJ 的|O	7
+經濟|N 困難|ADJ 的|O	3
+心緒|N 困難|ADJ 的|O	3
+身體|N 有害|ADJ 的|O	2
+財務|N 困難|ADJ 而|O	2
+社會|N 有害|ADJ 的|O	2
+目前|N 困難|ADJ 的|O	2
+學習|N 困難|ADJ 的|O	2
+孩童|N 困難|ADJ 的|O	2
+處境|N 困難|ADJ	6
+經費|N 困難|ADJ	6
+生活|N 困難|ADJ	6
+經濟|N 困難|ADJ	5
+財務|N 困難|ADJ	4
+心緒|N 困難|ADJ	4
+學習|N 困難|ADJ	4
+交通|N 困難|ADJ	4
+舉證|N 困難|ADJ	3
+社會|N 有害|ADJ	3
+生計|N 困難|ADJ	3
+家境|N 困難|ADJ	3
+國家|N 有害|ADJ	3
+開戶|N 困難|ADJ	2
+身心|N 有害|ADJ	2
+認知|N 困難|ADJ	2
+目前|N 困難|ADJ	2
+孩童|N 困難|ADJ	2
+人類|N 有害|ADJ	2
+上坡|N 困難|ADJ	2
+情緒|N 困難|ADJ	15
+財政|N 困難|ADJ	14
+身體|N 有害|ADJ	11
+行銷|N 是|V 上坡|N 困難|ADJ 下坡|N	2
+行銷|N 是|V 上坡|N 困難|ADJ	2
+生命|N 是|V 一|O 個|O 困難|ADJ	2
+承擔|N 和|O 克服|V 困難|N 中|O	2
+孩子|N 在|O 遇到|V 困難|N 時|O	2
+生理|N 上|O 抑制|V 困難|N	3
+承擔|N 和|O 克服|V 困難|N	2
+孩子|N 在|O 遇到|V 困難|N	2
+特質|N 和|O 面對|V 的|O 困難|N	2
+人才|N 的|O 培養|N 必定|ADV 困難|ADJ	2
+障礙|N 和|O 情緒|N 困難|ADJ 孩童|N	2
+障礙|N 和|O 情緒|N 困難|ADJ 的|O	3
+障礙|N 和|O 情緒|N 困難|ADJ	7
+挫折|N 或|O 困難|N 時|O	3
+婚姻|N 有|O 困難|N 時|O	2
+挫折|N 和|O 困難|N	5
+眼前|N 的|O 困難|N	4
+問題|N 和|O 困難|N	4
+財政|N 的|O 困難|N	3
+生活|N 的|O 困難|N	3
+生命|N 的|O 困難|N	3
+挫折|N 或|O 困難|N	3
+孩童|N 的|O 困難|N	3
+面前|N 的|O 困難|N	2
+關係|N 有|O 困難|N	2
+處境|N 的|O 困難|N	2
+缺點|N 或|O 困難|N	2
+經濟|N 有|O 困難|N	2
+發音|N 的|O 困難|N	2
+當前|N 的|O 困難|N	2
+煩惱|N 和|O 困難|N	2
+民股|N 有|O 困難|N	2
+方面|N 的|O 困難|N	2
+戰後|N 的|O 困難|N	2
+客戶|N 的|O 困難|N	2
+學童|N 的|O 困難|N	2
+學生|N 的|O 困難|N	2
+孩子|N 的|O 困難|N	2
+婚姻|N 有|O 困難|N	2
+問題|N 與|O 困難|N	2
+互動|N 有|O 困難|N	2
+電視|N 有|O 那麼|ADV 困難|ADJ 嗎|O	2
+電視|N 有|O 那麼|ADV 困難|ADJ	2
+近年|N 來|O 有害|ADJ 環境|N 的|O	2
+近年|N 來|O 有害|ADJ 環境|N	2
+目標|N 有|O 重大|ADJ 的|O 困難|N	2
+近年|N 來|O 有害|ADJ	2
+生理|N 上|O 的|O 困難|N 和|O	2
+生活|N 上|O 的|O 困難|N	5
+事實|N 上|O 的|O 困難|N	3
+金錢|N 上|O 的|O 困難|N	2
+英語|N 上|O 的|O 困難|N	2
+經濟|N 上|O 的|O 困難|N	2
+理解|N 上|O 的|O 困難|N	2
+演算|N 上|O 的|O 困難|N	2
+情緒|N 上|O 的|O 困難|N	2
+實質|N 上|O 的|O 困難|N	2
+學習|N 上|O 的|O 困難|N	2
+生理|N 上|O 的|O 困難|N	11
+智慧|N 的|O 人|N 成事|N 困難|N	2
+挫折|N 和|O 大|ADJ 困難|N	2
+缺點|N 會|ADV 構成|V 困難|N	2
+分享|N 就|ADV 不會|ADV 有|O 困難|N	2
+人生|N 最|ADV 困難|ADJ 的|O 歲月|N	5
+人生|N 最|ADV 困難|ADJ 的|O	5
+處境|N 很|ADV 困難|ADJ	5
+人生|N 最|ADV 困難|ADJ	5
+經濟|N 最|ADV 困難|ADJ	2
+管理|N 愈|ADV 困難|ADJ	2
+問題|N 不|ADV 是|V 困難|ADJ 紛至沓|ADJ	2
+社會|N 都|ADV 是|V 有害|ADJ	2
+問題|N 不|ADV 是|V 困難|ADJ	2
+坐姿|N 均|ADV 有|O 困難|N	2
+交心|N 都|ADV 很|ADV 困難|ADJ	2
+磨合|N 都|ADV 會|ADV 有|O 困難|N	2
+企業|N 最|ADV 大|ADJ 的|O 困難|N	2
+有害|N	3
+沒有|ADV 克服不了|V 的|O 困難|N	2
+已經|ADV 越來越|ADV 困難|ADJ	2
+如何|ADV 幫助|V 學習|V 困難|ADJ 的|O	2
+如何|ADV 幫助|V 學習|V 困難|ADJ	2
+可以|ADV 克服|V 困難|N	2
+不能|ADV 遇到|V 困難|N	2
+從中|ADV 看到|V 困難|ADJ	2
+一起|ADV 面對|V 困難|ADJ	2
+難以|ADV 想像|V 的|O 困難|N	2
+難以|ADV 克服|V 的|O 困難|N	2
+恐怕|ADV 相當|ADV 困難|ADJ	3
+可能|ADV 比較|ADV 困難|ADJ	3
+尚且|ADV 如此|ADV 困難|ADJ	2
+其實|ADV 相當|ADV 困難|ADJ	2
+似乎|ADV 有些|ADV 困難|ADJ	2
+互相|ADV 增加|ADJ 困難|N	2
+的確|ADV 困難|ADJ 重重|ADJ	4
+似乎|ADV 困難|ADJ 重重|ADJ	2
+極端|ADV 困難|ADJ 的|O 情況|N 下|O	2
+非常|ADV 困難|ADJ 的|O 工作|N	2
+非常|ADV 困難|ADJ 的|O 事情|N	2
+相當|ADV 困難|ADJ 的|O 事情|N	2
+極端|ADV 困難|ADJ 的|O 情況|N	2
+非常|ADV 困難|ADJ 的|O 一|O 件|O	2
+非常|ADV 困難|ADJ 的|O 一|O	2
+十分|ADV 困難|ADJ 的|O 事|N	4
+多麼|ADV 困難|ADJ 的|O 事|N	2
+非常|ADV 困難|ADJ 的|O 事|N	12
+相當|ADV 困難|ADJ 的|O	8
+比較|ADV 困難|ADJ 的|O	8
+十分|ADV 困難|ADJ 的|O	7
+極端|ADV 困難|ADJ 的|O	6
+非常|ADV 困難|ADJ 的|O	5
+那麼|ADV 困難|ADJ 嗎|O	5
+更加|ADV 困難|ADJ 了|O	5
+十分|ADV 困難|ADJ 的|O	5
+極為|ADV 困難|ADJ 的|O	4
+有點|ADV 困難|ADJ 吧|O	4
+有點|ADV 困難|ADJ 了|O	3
+有些|ADV 困難|ADJ 了|O	3
+如此|ADV 困難|ADJ 的|O	3
+多麼|ADV 困難|ADJ 的|O	3
+非常|ADV 困難|ADJ 的|O	25
+那麼|ADV 困難|ADJ 的|O	2
+這麼|ADV 困難|ADJ 嗎|O	2
+極其|ADV 困難|ADJ 的|O	2
+十分|ADV 困難|ADJ 了|O	2
+十分|ADV 困難|ADJ 之|O	2
+相當|ADV 困難|ADJ 的|O	10
+非常|ADV 困難|ADJ	91
+極端|ADV 困難|ADJ	8
+來得|ADV 困難|ADJ	8
+何其|ADV 困難|ADJ	8
+十分|ADV 困難|ADJ	62
+更為|ADV 困難|ADJ	6
+相當|ADV 困難|ADJ	59
+比較|ADV 困難|ADJ	50
+較為|ADV 困難|ADJ	5
+的確|ADV 困難|ADJ	5
+極其|ADV 困難|ADJ	5
+何等|ADV 困難|ADJ	5
+甚至|ADV 有害|ADJ	4
+實在|ADV 困難|ADJ	4
+可能|ADV 有害|ADJ	4
+有點|ADV 困難|ADJ	35
+那樣|ADV 困難|ADJ	3
+萬分|ADV 困難|ADJ	3
+確實|ADV 困難|ADJ	3
+最為|ADV 困難|ADJ	3
+日益|ADV 困難|ADJ	3
+必定|ADV 困難|ADJ	3
+更加|ADV 困難|ADJ	25
+還要|ADV 困難|ADJ	2
+這麼|ADV 困難|ADJ	2
+豈不|ADV 困難|ADJ	2
+總是|ADV 困難|ADJ	2
+當然|ADV 困難|ADJ	2
+毫不|ADV 困難|ADJ	2
+極度|ADV 困難|ADJ	2
+有否|ADV 困難|ADJ	2
+更形|ADV 困難|ADJ	2
+尤其|ADV 困難|ADJ	2
+尚且|ADV 困難|ADJ	2
+如何|ADV 困難|ADJ	2
+依然|ADV 困難|ADJ	2
+似乎|ADV 困難|ADJ	2
+不會|ADV 有害|ADJ	2
+一向|ADV 困難|ADJ	2
+多麼|ADV 困難|ADJ	18
+那麼|ADV 困難|ADJ	15
+有些|ADV 困難|ADJ	15
+如此|ADV 困難|ADJ	14
+極為|ADV 困難|ADJ	13
+這麼|ADV 困難|ADJ	11
+確實|ADV 是|V 非常|ADV 困難|ADJ	2
+其實|ADV 是|V 有害|ADJ	2
+真的|ADV 是|V 很|ADV 困難|ADJ	2
+不會|ADV 有|O 什麼|O 困難|N 吧|O	3
+不會|ADV 有|O 什麼|O 困難|N	6
+不會|ADV 對|O 任何|O 人|N 有害|ADJ	2
+不會|ADV 有|O 困難|N	5
+多麼|ADV 的|O 困難|N	3
+那麼|ADV 的|O 困難|N	2
+一直|ADV 有|O 困難|N	2
+不會|ADV 有|O 困難|ADJ	2
+不會|ADV 對|O 她|O 有害|ADJ	2
+實在|ADV 太|ADV 困難|ADJ 了|O	4
+實在|ADV 太|ADV 困難|ADJ	6
+總是|ADV 很|ADV 困難|ADJ	3
+實在|ADV 很|ADV 困難|ADJ	3
+不會|ADV 很|ADV 困難|ADJ	2
+不會|ADV 太|ADV 困難|ADJ	2
+恐怕|ADV 也|ADV 很|ADV 困難|ADJ	2
+其實|ADV 並|ADV 不|ADV 困難|ADJ	2
+努力|ADJ 克服|V 困難|N	2
+產生|ADJ 學習|V 困難|ADJ	2
+勇敢|ADJ 挑戰|V 困難|ADJ	2
+有害|ADJ 環境|N 的|O 加劇|N	2
+顯著|ADJ 困難|N 或|O 失常|ADJ 情形|N	2
+顯著|ADJ 困難|N 或|O 失常|ADJ	2
+顯著|ADJ 困難|N 或|O	2
+有害|ADJ 身心|N 的|O	2
+有害|ADJ 環境|N 的|O	2
+有害|ADJ 物質|N	6
+實際|ADJ 困難|N	6
+重重|ADJ 困難|N	4
+產生|ADJ 困難|N	4
+同樣|ADJ 困難|N	4
+相對|ADJ 困難|N	3
+有害|ADJ 身心|N	3
+增加|ADJ 困難|N	3
+出現|ADJ 困難|N	3
+顯著|ADJ 困難|N	2
+重大|ADJ 困難|N	2
+有害|ADJ 環境|N	2
+有害|ADJ 婚姻|N	2
+有害|ADJ 人體|N	2
+普通|ADJ 困難|N	2
+小小|ADJ 困難|N	2
+基本|ADJ 困難|N	2
+嚴重|ADJ 困難|N	2
+危險|ADJ 困難|ADJ 的|O 想法|N 從未|ADV	2
+危險|ADJ 困難|ADJ 的|O 想法|N	2
+有害|ADJ 無益|ADJ 的|O	3
+複雜|ADJ 困難|ADJ 的|O	2
+產生|ADJ 困難|ADJ 的|O	2
+有害|ADJ 無益|ADJ 的|O	2
+同樣|ADJ 困難|ADJ 的|O	2
+危險|ADJ 困難|ADJ 的|O	2
+出現|ADJ 困難|ADJ 時|O	2
+有害|ADJ 健康|ADJ	9
+特別|ADJ 困難|ADJ	8
+一樣|ADJ 困難|ADJ	7
+出現|ADJ 困難|ADJ	5
+健康|ADJ 有害|ADJ	5
+複雜|ADJ 困難|ADJ	3
+產生|ADJ 有害|ADJ	2
+產生|ADJ 困難|ADJ	2
+同樣|ADJ 困難|ADJ	2
+危險|ADJ 困難|ADJ	2
+有害|ADJ 無益|ADJ	19
+特別|ADJ 是|V 近年|N 來|O 有害|ADJ	2
+有害|ADJ 或|O 有益|V	2
+足夠|ADJ 的|O 定力|N 克服|V 困難|N	2
+復合|ADJ 的|O 困難|N 與|O 特委會|N	2
+復合|ADJ 的|O 困難|N 與|O	2
+相當|ADJ 的|O 困難|N	6
+有害|ADJ 的|O 物質|N	5
+重大|ADJ 的|O 困難|N	4
+一定|ADJ 的|O 困難|N	4
+真正|ADJ 的|O 困難|N	3
+現實|ADJ 的|O 困難|N	3
+怎樣|ADJ 的|O 困難|N	3
+必要|ADJ 的|O 困難|N	3
+合作|ADJ 的|O 困難|N	3
+真實|ADJ 的|O 困難|N	2
+有害|ADJ 的|O 細菌|N	2
+有害|ADJ 的|O 東西|N	2
+有害|ADJ 於|O 社會|N	2
+有害|ADJ 於|O 心理|N	2
+復合|ADJ 的|O 困難|N	2
+太多|ADJ 的|O 困難|N	2
+基本|ADJ 的|O 困難|N	2
+嚴重|ADJ 的|O 困難|N	2
+唯一|ADJ 的|O 困難|N	2
+複雜|ADJ 與|O 困難|ADJ	2
+有害|ADJ 而|O 無|V 利|N 的|O	2
+有害|ADJ 而|O 無|V 利|N	3
+有害|ADJ 而|O 無|V	3
+產生|ADJ 了|O 我|O 克服|V 困難|ADJ	2
+實際|ADJ 上|O 的|O 困難|N	2
+悲觀|ADJ 的|O 人|N 遇上|V 困難|N	2
+有害|ADJ 的|O 事|N	2
+有害|ADJ 而|O	5
+有害|ADJ 的|O	46
+有害|ADJ 嗎|O	3
+有害|ADJ 或|O	2
+有害|ADJ 呢|O	2
+有害|ADJ 的|O	15
+有害|ADJ 於|O	13
+有害|ADJ 處|N 的|O	2
+有害|ADJ 處|N	5
+有害|ADJ 人|N	2
+幽默|ADJ 去|ADV 彌補|V 困難|N 和|O	2
+幽默|ADJ 去|ADV 彌補|V 困難|N	2
+有害|ADJ	240
+是|V 愈來愈|ADV 困難|ADJ 了|O	2
+是|V 愈來愈|ADV 困難|ADJ	2
+是|V 解決|V 困難|ADJ 的|O	2
+是|V 應付|V 困難|ADJ	3
+是|V 解決|V 困難|ADJ	2
+沒|V 什麼|O 困難|N	3
+怕|V 任何|O 困難|N	2
+是|V 困難|N 所在|N	2
+是|V 上坡|N 困難|ADJ 下坡|N 易|ADJ	2
+是|V 上坡|N 困難|ADJ 下坡|N	2
+做|V 算術|N 特別|ADJ 困難|ADJ	2
+是|V 財政|N 困難|ADJ	2
+是|V 上坡|N 困難|ADJ	2
+看|V 電視|N 有|O 那麼|ADV 困難|ADJ	2
+是|V 近年|N 來|O 有害|ADJ 環境|N	2
+是|V 近年|N 來|O 有害|ADJ	2
+想|V 交心|N 都|ADV 很|ADV 困難|ADJ	2
+無|V 困難|N	5
+是|V 困難|N	3
+遇|V 困難|N	2
+是|V 非常|ADV 困難|ADJ 的|O 事情|N	2
+是|V 非常|ADV 困難|ADJ 的|O 一|O	2
+是|V 非常|ADV 困難|ADJ 的|O 事|N	6
+是|V 十分|ADV 困難|ADJ 的|O 事|N	2
+是|V 相當|ADV 困難|ADJ 的|O	9
+是|V 十分|ADV 困難|ADJ 的|O	5
+是|V 非常|ADV 困難|ADJ 的|O	4
+是|V 比較|ADV 困難|ADJ 的|O	4
+是|V 十分|ADV 困難|ADJ 的|O	4
+是|V 那麼|ADV 困難|ADJ 的|O	2
+是|V 多麼|ADV 困難|ADJ 的|O	2
+是|V 非常|ADV 困難|ADJ 的|O	14
+是|V 比較|ADV 困難|ADJ	4
+是|V 何等|ADV 困難|ADJ	4
+是|V 非常|ADV 困難|ADJ	27
+是|V 那麼|ADV 困難|ADJ	2
+是|V 這麼|ADV 困難|ADJ	2
+是|V 極為|ADV 困難|ADJ	2
+是|V 極其|ADV 困難|ADJ	2
+是|V 有點|ADV 困難|ADJ	2
+是|V 相當|ADV 困難|ADJ	12
+是|V 多麼|ADV 困難|ADJ	10
+是|V 十分|ADV 困難|ADJ	10
+是|V 那麼|ADV 的|O 困難|N	2
+是|V 多麼|ADV 的|O 困難|N	2
+是|V 困難|ADJ 紛至沓|ADJ 來|O	2
+是|V 困難|ADJ 紛至沓|ADJ	2
+是|V 普通|ADJ 困難|N	2
+是|V 有害|ADJ 無益|ADJ 的|O	2
+是|V 有害|ADJ 無益|ADJ 的|O	2
+是|V 有害|ADJ 無益|ADJ	5
+是|V 唯一|ADJ 的|O 困難|N	2
+是|V 有害|ADJ 而|O 無|V 利|N	3
+是|V 有害|ADJ 而|O 無|V	3
+是|V 困難|ADJ 的|O	5
+是|V 有害|ADJ 而|O	3
+是|V 有害|ADJ 的|O	3
+是|V 困難|ADJ 之|O	3
+怕|V 困難|ADJ 的|O	2
+是|V 有害|ADJ 的|O	12
+是|V 困難|ADJ 的|O	12
+感|V 困難|ADJ	7
+是|V 困難|ADJ	38
+遇|V 困難|ADJ	3
+是|V 有害|ADJ	27
+覺|V 困難|ADJ	2
+做|V 困難|ADJ	2
+怕|V 困難|ADJ	16
+說|V 是|V 有害|ADJ	2
+是|V 件|O 非常|ADV 困難|ADJ 的|O	6
+是|V 件|O 相當|ADV 困難|ADJ 的|O	2
+是|V 件|O 非常|ADV 困難|ADJ	6
+是|V 件|O 相當|ADV 困難|ADJ	2
+碰|V 著|O 困難|ADJ 的話|O	2
+是|V 件|O 困難|ADJ 的|O 事|N	3
+做|V 點|O 困難|ADJ 的|O 事|N	2
+是|V 有|O 困難|ADJ 的|O	4
+是|V 有|O 困難|ADJ 的|O	4
+是|V 件|O 困難|ADJ 的|O	4
+做|V 點|O 困難|ADJ 的|O	2
+是|V 有|O 困難|ADJ	8
+是|V 件|O 困難|ADJ	4
+碰|V 著|O 困難|ADJ	2
+做|V 點|O 困難|ADJ	2
+是|V 一|O 件|O 非常|ADV 困難|ADJ	3
+是|V 一|O 件|O 十分|ADV 困難|ADJ	2
+是|V 一|O 個|O 困難|ADJ 的|O	3
+是|V 一|O 件|O 困難|ADJ 的|O	3
+是|V 另|O 一|O 困難|ADJ 之|O	2
+是|V 一|O 個|O 困難|ADJ	3
+是|V 一|O 件|O 困難|ADJ	3
+是|V 另|O 一|O 困難|ADJ	2
+是|V 件|O 很|ADV 困難|ADJ 的|O	2
+是|V 件|O 很|ADV 困難|ADJ	2
+解|V 尿|N 困難|N	3
+是|V 最|ADV 困難|ADJ 的|O 地方|N	2
+是|V 很|ADV 困難|ADJ 的|O 事|N	6
+是|V 最|ADV 困難|ADJ 的|O	8
+是|V 最|ADV 困難|ADJ 的|O	6
+是|V 挺|ADV 困難|ADJ 的|O	2
+是|V 太|ADV 困難|ADJ 的|O	2
+是|V 很|ADV 困難|ADJ 的|O	13
+是|V 很|ADV 困難|ADJ 的|O	11
+是|V 很|ADV 困難|ADJ	31
+說|V 很|ADV 困難|ADJ	3
+是|V 太|ADV 困難|ADJ	3
+是|V 挺|ADV 困難|ADJ	2
+是|V 最|ADV 困難|ADJ	16
+說|V 也|ADV 是|V 困難|ADJ 的|O	2
+說|V 也|ADV 是|V 困難|ADJ	2
+是|V 最|ADV 大|ADJ 的|O 困難|N	2
+是|V 大|ADJ 困難|N	2
+有|O 各式各樣|ADJ 的|O 困難|N	2
+在|O 遇到|V 困難|N 時|O	4
+我|O 碰到|V 困難|N 時|O	2
+在|O 面對|V 困難|N 時|O	2
+和|O 克服|V 困難|N 中|O	2
+你|O 遇到|V 困難|N 時|O	2
+上|O 遭遇|V 困難|N 時|O	2
+我|O 度過|V 人生|N 最|ADV 困難|ADJ	5
+在|O 遇到|V 困難|N	4
+他|O 克服|V 困難|N	4
+在|O 面對|V 困難|N	3
+你|O 遇到|V 困難|N	3
+上|O 抑制|V 困難|N	3
+的|O 消除|V 困難|N	2
+或|O 決定|V 困難|N	2
+我|O 碰到|V 困難|N	2
+地|O 克服|V 困難|N	2
+和|O 克服|V 困難|N	2
+你|O 碰到|V 困難|N	2
+你|O 克服|V 困難|N	2
+上|O 遭遇|V 困難|N	2
+有|O 學習|V 困難|ADJ 的|O 孩子|N	3
+在|O 遇到|V 困難|ADJ 的|O 時候|N	3
+我|O 克服|V 困難|ADJ 的|O 精神|N	2
+有|O 學習|V 困難|ADJ 的|O	4
+在|O 遇到|V 困難|ADJ 的|O	3
+我|O 克服|V 困難|ADJ 的|O	2
+有|O 學習|V 困難|ADJ	7
+在|O 遇到|V 困難|ADJ	4
+若|O 遇到|V 困難|ADJ	2
+有|O 閱讀|V 困難|ADJ	2
+我|O 克服|V 困難|ADJ	2
+他|O 面對|V 困難|ADJ	2
+了|O 學習|V 困難|ADJ	2
+有|O 適應|V 的|O 困難|N	2
+時|O 遇到|V 的|O 困難|N	2
+和|O 面對|V 的|O 困難|N	2
+和|O 適應|V 上|O 的|O 困難|N	3
+有|O 適應|V 上|O 的|O 困難|N	2
+或|O 抑制|V 上|O 的|O 困難|N	2
+連|O 走路|V 都|ADV 有|O 困難|N	2
+連|O 呼吸|V 都|ADV 有|O 困難|N	2
+有|O 什麼|O 困難|N 吧|O	3
+有|O 什麼|O 困難|N 嗎|O	2
+有|O 許多|O 困難|N 要|ADV 克服|V	2
+有|O 許多|O 困難|N 要|ADV	2
+的|O 種種|O 困難|N	8
+了|O 許多|O 困難|N	5
+有|O 很多|O 困難|N	4
+的|O 重重|O 困難|N	3
+有|O 什麼|O 困難|N	27
+的|O 許多|O 困難|N	2
+有|O 甚麼|O 困難|N	2
+有|O 任何|O 困難|N	2
+有|O 一些|O 困難|N	2
+了|O 重重|O 困難|N	2
+有|O 許多|O 困難|N	11
+著|O 什麼|O 困難|ADJ	2
+對|O 任何|O 人|N 有害|ADJ 處|N	2
+對|O 任何|O 人|N 有害|ADJ	2
+的|O 定力|N 克服|V 困難|N	2
+的|O 人和|N 表達|V 有|O 困難|ADJ	2
+的|O 困難|N 在於|V	5
+向|O 困難|N 挑戰|V	2
+的|O 困難|N ──|O	2
+的|O 有害|N 案例|N 非常|ADV 稀少|ADJ	2
+的|O 有害|N 案例|N 非常|ADV	2
+的|O 學習|N 困難|N	7
+的|O 困難|N 情形|N	4
+的|O 經濟|N 困難|N	3
+的|O 生活|N 困難|N	3
+的|O 困難|N 程度|N	3
+的|O 困難|N 問題|N	3
+的|O 閱讀|N 困難|N	2
+的|O 有害|N 案例|N	2
+的|O 困難|N 處境|N	2
+的|O 困難|N 時期|N	2
+的|O 能力|N 比較|ADV 困難|ADJ	2
+的|O 培養|N 必定|ADV 困難|ADJ	2
+和|O 情緒|N 困難|ADJ 孩童|N 的|O	2
+和|O 藝術|N 同樣|ADJ 困難|N	3
+和|O 情緒|N 困難|ADJ 學童|N	3
+和|O 情緒|N 困難|ADJ 孩童|N	2
+對|O 身體|N 有害|ADJ 無益|ADJ	2
+和|O 情緒|N 困難|ADJ 的|O	5
+對|O 身體|N 有害|ADJ 的|O	2
+對|O 國家|N 有害|ADJ	3
+的|O 學習|N 困難|ADJ	2
+對|O 人類|N 有害|ADJ	2
+和|O 情緒|N 困難|ADJ	12
+對|O 身體|N 有害|ADJ	11
+的|O 困難|N 是|V 接納|V	2
+的|O 困難|N 在|V 那裡|N	2
+的|O 困難|N 是|V 如何|ADV	2
+的|O 困難|N 在|V	3
+個|O 困難|N 是|V	3
+的|O 困難|N 是|V	18
+的|O 困難|N 與|O 特委會|N 的|O	2
+的|O 困難|N 與|O 特委會|N	2
+的|O 生理|N 上|O 抑制|V 困難|N	2
+的|O 困難|N 和|O 阻礙|N 都|ADV	2
+的|O 缺點|N 或|O 困難|N	2
+的|O 煩惱|N 和|O 困難|N	2
+的|O 挫折|N 和|O 困難|N	2
+的|O 困難|N 與|O 挑戰|N	2
+的|O 困難|N 和|O 阻礙|N	2
+的|O 問題|N 和|O 困難|N	2
+有|O 事實|N 上|O 的|O 困難|N	2
+和|O 生活|N 上|O 的|O 困難|N	2
+的|O 困難|N 之|O 一|O	2
+的|O 困難|N 之|O 處|N	3
+的|O 困難|N 在|O 人|N	2
+的|O 困難|N 與|O	9
+的|O 困難|N 及|O	8
+的|O 困難|N 或|O	5
+的|O 困難|N 之|O	5
+有|O 困難|N 時|O	5
+的|O 困難|N 中|O	4
+或|O 困難|N 時|O	3
+在|O 困難|N 中|O	3
+和|O 困難|N 的|O	3
+的|O 困難|N 在|O	2
+的|O 困難|N 了|O	2
+把|O 困難|N 和|O	2
+之|O 困難|N 等|O	2
+的|O 困難|N 和|O	17
+的|O 處境|N 很|ADV 困難|ADJ	4
+的|O 問題|N 不|ADV 是|V 困難|ADJ	2
+的|O 困難|N 就|ADV 是|V	3
+的|O 困難|N 不|ADV 是|V	3
+種|O 坐姿|N 均|ADV 有|O 困難|N	2
+了|O 困難|N 就|ADV 會|ADV 變|ADJ	2
+了|O 困難|N 就|ADV 會|ADV	2
+的|O 困難|N 不|ADV	6
+的|O 困難|N 就|ADV	5
+的|O 困難|N 也|ADV	5
+的|O 困難|N 都|ADV	4
+的|O 困難|N 還|ADV	2
+的|O 困難|N 會|ADV	2
+了|O 困難|N 就|ADV	2
+的|O 困難|N 多|ADJ 了|O	2
+的|O 困難|N 多|ADJ	2
+與|O 困難|N	9
+或|O 困難|N	8
+在|O 困難|N	7
+的|O 困難|N	626
+把|O 困難|N	6
+其|O 困難|N	6
+之|O 困難|N	6
+項|O 困難|N	5
+點|O 困難|N	3
+的|O 有害|N	3
+多|O 困難|N	3
+何|O 困難|N	3
+和|O 困難|N	27
+了|O 困難|N	20
+次|O 困難|N	2
+層|O 困難|N	2
+向|O 困難|N	2
+及|O 困難|N	2
+有|O 困難|N	161
+個|O 困難|N	14
+種|O 困難|N	13
+件|O 非常|ADV 困難|ADJ 的|O 事|N	6
+件|O 十分|ADV 困難|ADJ 的|O 事|N	2
+件|O 非常|ADV 困難|ADJ 的|O	8
+有|O 那麼|ADV 困難|ADJ 嗎|O	4
+件|O 相當|ADV 困難|ADJ 的|O	3
+在|O 極端|ADV 困難|ADJ 的|O	2
+件|O 十分|ADV 困難|ADJ 的|O	2
+件|O 非常|ADV 困難|ADJ	9
+有|O 多麼|ADV 困難|ADJ	5
+有|O 那麼|ADV 困難|ADJ	4
+件|O 相當|ADV 困難|ADJ	3
+這|O 有點|ADV 困難|ADJ	2
+有|O 相當|ADV 困難|ADJ	2
+得|O 非常|ADV 困難|ADJ	2
+在|O 極端|ADV 困難|ADJ	2
+件|O 十分|ADV 困難|ADJ	2
+上|O 非常|ADV 困難|ADJ	2
+上|O 相當|ADV 困難|ADJ	2
+著|O 困難|ADJ 的話|O	2
+在|O 困難|ADJ 之中|O	2
+來|O 有害|ADJ 環境|N 的|O 加劇|N	2
+有|O 顯著|ADJ 困難|N 或|O 失常|ADJ	2
+有|O 顯著|ADJ 困難|N 或|O	2
+來|O 有害|ADJ 環境|N 的|O	2
+有|O 實際|ADJ 困難|N	3
+的|O 實際|ADJ 困難|N	2
+有|O 顯著|ADJ 困難|N	2
+有|O 困難|ADJ 學童|N	2
+個|O 小小|ADJ 困難|N	2
+來|O 有害|ADJ 環境|N	2
+了|O 嚴重|ADJ 困難|N	2
+種|O 危險|ADJ 困難|ADJ 的|O 想法|N	2
+種|O 危險|ADJ 困難|ADJ 的|O	2
+種|O 危險|ADJ 困難|ADJ	2
+對|O 健康|ADJ 有害|ADJ	2
+在|O 困難|ADJ 的|O 條件|N 下|O	2
+有|O 困難|ADJ 的|O 時候|N	4
+有|O 困難|ADJ 的|O 孩子|N	3
+著|O 一定|ADJ 的|O 困難|N	2
+有|O 重大|ADJ 的|O 困難|N	2
+有|O 相當|ADJ 的|O 困難|N	2
+在|O 困難|ADJ 的|O 條件|N	2
+個|O 困難|ADJ 的|O 歷程|N	2
+了|O 困難|ADJ 的|O 可能|N	2
+有|O 困難|ADJ 的|O 人|N 混合|V	2
+件|O 困難|ADJ 的|O 事|N	6
+的|O 困難|ADJ 之|O 處|N	4
+有|O 困難|ADJ 的|O 人|N	3
+點|O 困難|ADJ 的|O 事|N	2
+此|O 困難|ADJ 之|O 時|N	2
+一|O 困難|ADJ 之|O 處|N	2
+件|O 困難|ADJ 的|O	8
+有|O 困難|ADJ 時|O	7
+有|O 困難|ADJ 了|O	7
+個|O 困難|ADJ 的|O	7
+在|O 困難|ADJ 的|O	6
+有|O 困難|ADJ 的|O	5
+在|O 困難|ADJ 中|O	5
+的|O 困難|ADJ 之|O	4
+和|O 困難|ADJ 的|O	4
+及|O 困難|ADJ 的|O	4
+了|O 困難|ADJ 的|O	4
+有|O 困難|ADJ 嗎|O	3
+或|O 困難|ADJ 的|O	3
+在|O 困難|ADJ 時|O	3
+有|O 困難|ADJ 的|O	24
+點|O 困難|ADJ 的|O	2
+項|O 困難|ADJ 的|O	2
+而|O 有害|ADJ 的|O	2
+種|O 困難|ADJ 的|O	2
+段|O 困難|ADJ 的|O	2
+此|O 困難|ADJ 之|O	2
+我|O 困難|ADJ 的|O	2
+場|O 困難|ADJ 的|O	2
+和|O 有害|ADJ 的|O	2
+上|O 困難|ADJ 的|O	2
+一|O 困難|ADJ 之|O	2
+和|O 幽默|ADJ 去|ADV 彌補|V 困難|N	2
+件|O 困難|ADJ	9
+個|O 困難|ADJ	8
+的|O 困難|ADJ	7
+或|O 困難|ADJ	7
+有|O 困難|ADJ	69
+中|O 困難|ADJ	6
+種|O 困難|ADJ	5
+或|O 有害|ADJ	4
+和|O 困難|ADJ	4
+及|O 困難|ADJ	4
+項|O 困難|ADJ	3
+被|O 困難|ADJ	3
+種|O 有害|ADJ	3
+次|O 困難|ADJ	3
+得|O 困難|ADJ	3
+天|O 困難|ADJ	3
+地|O 困難|ADJ	3
+上|O 困難|ADJ	3
+點|O 困難|ADJ	2
+著|O 困難|ADJ	2
+與|O 困難|ADJ	2
+而|O 有害|ADJ	2
+等|O 有害|ADJ	2
+的|O 有害|ADJ	2
+段|O 困難|ADJ	2
+此|O 困難|ADJ	2
+我|O 困難|ADJ	2
+它|O 有害|ADJ	2
+她|O 有害|ADJ	2
+場|O 困難|ADJ	2
+和|O 有害|ADJ	2
+其|O 困難|ADJ	2
+來|O 有害|ADJ	2
+你|O 有害|ADJ	2
+他|O 有害|ADJ	2
+些|O 困難|ADJ	2
+中|O 有害|ADJ	2
+一|O 困難|ADJ	2
+在|O 困難|ADJ	19
+了|O 困難|ADJ	10
+那|O 是|V 多麼|ADV 困難|ADJ	2
+那|O 是|V 何等|ADV 困難|ADJ	2
+這|O 是|V 很|ADV 困難|ADJ 的|O	2
+這|O 是|V 很|ADV 困難|ADJ	3
+了|O 我|O 克服|V 困難|ADJ 的|O	2
+了|O 我|O 克服|V 困難|ADJ	2
+次|O 的|O 困難|N 中|O	3
+上|O 的|O 困難|N 和|O	2
+有|O 了|O 困難|N 就|ADV 會|ADV	2
+有|O 了|O 困難|N 就|ADV	2
+上|O 有|O 困難|N	8
+中|O 的|O 困難|N	6
+一|O 個|O 困難|N	6
+我|O 的|O 困難|N	5
+他|O 的|O 困難|N	5
+這|O 種|O 困難|N	3
+次|O 的|O 困難|N	3
+有|O 其|O 困難|N	3
+有|O 何|O 困難|N	3
+它|O 的|O 困難|N	3
+你|O 的|O 困難|N	3
+這|O 點|O 困難|N	2
+這|O 個|O 困難|N	2
+誰|O 有|O 困難|N	2
+有|O 多|O 困難|N	2
+時|O 的|O 困難|N	2
+她|O 的|O 困難|N	2
+各|O 項|O 困難|N	2
+你|O 有|O 困難|N	2
+上|O 的|O 困難|N	119
+有|O 了|O 困難|N	10
+各|O 種|O 困難|N	10
+一|O 件|O 非常|ADV 困難|ADJ 的|O	2
+一|O 件|O 十分|ADV 困難|ADJ 的|O	2
+一|O 件|O 非常|ADV 困難|ADJ	3
+一|O 件|O 十分|ADV 困難|ADJ	2
+一|O 個|O 小小|ADJ 困難|N	2
+各|O 種|O 危險|ADJ 困難|ADJ 的|O	2
+各|O 種|O 危險|ADJ 困難|ADJ	2
+一|O 個|O 困難|ADJ 的|O 歷程|N	2
+一|O 件|O 困難|ADJ 的|O 事|N	3
+另|O 一|O 困難|ADJ 之|O 處|N	2
+一|O 個|O 困難|ADJ 的|O	4
+一|O 件|O 困難|ADJ 的|O	4
+在|O 我|O 困難|ADJ 的|O	2
+各|O 種|O 困難|ADJ 的|O	2
+另|O 一|O 困難|ADJ 之|O	2
+一|O 段|O 困難|ADJ 的|O	2
+一|O 個|O 困難|ADJ	5
+各|O 種|O 困難|ADJ	4
+一|O 件|O 困難|ADJ	4
+有|O 了|O 困難|ADJ	3
+你|O 有|O 困難|ADJ	3
+一|O 次|O 困難|ADJ	3
+一|O 天|O 困難|ADJ	3
+有|O 些|O 困難|ADJ	2
+我|O 有|O 困難|ADJ	2
+對|O 她|O 有害|ADJ	2
+對|O 你|O 有害|ADJ	2
+在|O 我|O 困難|ADJ	2
+另|O 一|O 困難|ADJ	2
+一|O 段|O 困難|ADJ	2
+一|O 次|O 的|O 困難|N 中|O	3
+的|O 各|O 種|O 困難|N	4
+有|O 它|O 的|O 困難|N	3
+有|O 他|O 的|O 困難|N	3
+一|O 次|O 的|O 困難|N	3
+上|O 有|O 其|O 困難|N	2
+的|O 一|O 個|O 小小|ADJ 困難|N	2
+比|O 一|O 天|O 困難|ADJ	2
+每|O 一|O 次|O 的|O 困難|N	3
+天|O 比|O 一|O 天|O 困難|ADJ	2
+的|O 人|N 遇上|V 困難|N 時|O	2
+的|O 人|N 遇上|V 困難|N	2
+的|O 人|N 成事|N 困難|N	2
+對|O 人|N 有害|ADJ 的|O	3
+對|O 人|N 有害|ADJ	5
+句|O 話|N 都|ADV 很|ADV 困難|ADJ	2
+他|O 一|ADV 遇到|V 困難|N 就|ADV	2
+他|O 一|ADV 遇到|V 困難|N	2
+他|O 會|ADV 毫無|V 困難|ADJ	2
+這|O 很|ADV 困難|ADJ ──|O	2
+在|O 最|ADV 困難|ADJ 的|O 時候|N	2
+件|O 很|ADV 困難|ADJ 的|O 事|N	3
+在|O 最|ADV 困難|ADJ 的|O	4
+件|O 很|ADV 困難|ADJ 的|O	3
+了|O 很|ADV 困難|ADJ 的|O	2
+上|O 最|ADV 困難|ADJ 的|O	2
+這|O 很|ADV 困難|ADJ	6
+有|O 多|ADV 困難|ADJ	4
+在|O 最|ADV 困難|ADJ	4
+得|O 更|ADV 困難|ADJ	3
+件|O 很|ADV 困難|ADJ	3
+的|O 要|ADV 困難|ADJ	2
+個|O 很|ADV 困難|ADJ	2
+了|O 很|ADV 困難|ADJ	2
+上|O 最|ADV 困難|ADJ	2
+這|O 才|ADV 是|V 最|ADV 困難|ADJ	2
+這|O 並|ADV 不|ADV 困難|ADJ	5
+的|O 最|ADV 大|ADJ 困難|N	4
+有|O 極|ADV 大|ADJ 的|O 困難|N	4
+有|O 很|ADV 大|ADJ 的|O 困難|N	4
+和|O 大|ADJ 困難|N	2
+人|N 遇上|V 困難|N 時|O	2
+人|N 遇上|V 困難|N	2
+人|N 成事|N 困難|N	2
+尿|N 困難|N	3
+人|N 有害|ADJ 的|O	3
+人|N 有害|ADJ 處|N 的|O	2
+人|N 有害|ADJ 處|N	2
+人|N 有害|ADJ	7
+上|N 的|O 困難|N	3
+裡|N 的|O 困難|N	2
+書|N 的|O 困難|N	2
+人|N 在|O 困難|ADJ	2
+盤|N 仍|ADV 有|O 困難|N	2
+話|N 都|ADV 很|ADV 困難|ADJ	2
+會|ADV 造成|V 呼吸|V 困難|ADJ	2
+並|ADV 沒有|V 什麼|O 困難|N	2
+去|ADV 彌補|V 困難|N 和|O 辛苦|ADJ	2
+去|ADV 彌補|V 困難|N 和|O	2
+一|ADV 遇到|V 困難|N 就|ADV	3
+去|ADV 克服|V 困難|N	5
+能|ADV 克服|V 困難|N	4
+來|ADV 克服|V 困難|N	3
+一|ADV 遇到|V 困難|N	3
+會|ADV 發生|V 困難|N	2
+會|ADV 構成|V 困難|N	2
+去|ADV 彌補|V 困難|N	2
+並|ADV 沒有|V 困難|N	2
+都|ADV 覺得|V 困難|ADJ 了|O	2
+都|ADV 感到|V 困難|ADJ	5
+能|ADV 克服|V 困難|ADJ	3
+會|ADV 遇到|V 困難|ADJ	3
+不|ADV 覺得|V 困難|ADJ	3
+都|ADV 覺得|V 困難|ADJ	2
+會|ADV 造成|V 困難|ADJ	2
+會|ADV 毫無|V 困難|ADJ	2
+一|ADV 遇到|V 困難|ADJ	2
+都|ADV 忽略|V 了|O 學習|V 困難|ADJ	2
+所|ADV 遭遇|V 的|O 困難|N	8
+所|ADV 面臨|V 的|O 困難|N	4
+所|ADV 遇到|V 的|O 困難|N	4
+所|ADV 面對|V 的|O 困難|N	2
+所|ADV 造成|V 的|O 困難|N	2
+所|ADV 帶來|V 的|O 困難|N	2
+都|ADV 看到|V 了|O 困難|ADJ 的|O	2
+都|ADV 看到|V 了|O 困難|ADJ	2
+會|ADV 碰到|V 各|O 種|O 困難|ADJ	2
+會|ADV 從中|ADV 看到|V 困難|ADJ	2
+就|ADV 更加|ADV 困難|ADJ 了|O	3
+都|ADV 有點|ADV 困難|ADJ	4
+就|ADV 更加|ADV 困難|ADJ	4
+也|ADV 相當|ADV 困難|ADJ	4
+不|ADV 那麼|ADV 困難|ADJ	4
+就|ADV 非常|ADV 困難|ADJ	3
+卻|ADV 非常|ADV 困難|ADJ	3
+都|ADV 非常|ADV 困難|ADJ	2
+都|ADV 十分|ADV 困難|ADJ	2
+沒|ADV 那麼|ADV 困難|ADJ	2
+會|ADV 有些|ADV 困難|ADJ	2
+會|ADV 如此|ADV 困難|ADJ	2
+就|ADV 相當|ADV 困難|ADJ	2
+就|ADV 比較|ADV 困難|ADJ	2
+又|ADV 十分|ADV 困難|ADJ	2
+卻|ADV 如此|ADV 困難|ADJ	2
+仍|ADV 相當|ADV 困難|ADJ	2
+也|ADV 十分|ADV 困難|ADJ	2
+就|ADV 不會|ADV 有|O 困難|N	2
+會|ADV 產生|ADJ 學習|V 困難|ADJ	2
+很|ADV 困難|ADJ ──|O	2
+會|ADV 產生|ADJ 困難|N	2
+就|ADV 困難|ADJ 重重|ADJ 了|O	2
+在|ADV 出現|ADJ 困難|ADJ 時|O	2
+就|ADV 困難|ADJ 重重|ADJ	2
+在|ADV 出現|ADJ 困難|ADJ	2
+則|ADV 有害|ADJ 健康|ADJ	2
+最|ADV 困難|ADJ 的|O 部分|O	3
+最|ADV 困難|ADJ 的|O 歲月|N ﹂|O	2
+最|ADV 困難|ADJ 的|O 時候|N	8
+最|ADV 困難|ADJ 的|O 地方|N	6
+最|ADV 困難|ADJ 的|O 歲月|N	5
+最|ADV 困難|ADJ 的|O 時刻|N	3
+不|ADV 必要|ADJ 的|O 困難|N	3
+最|ADV 困難|ADJ 的|O 事情|N	2
+很|ADV 困難|ADJ 的|O 事情|N	2
+最|ADV 困難|ADJ 的|O 是|V	8
+最|ADV 困難|ADJ 的|O 一|O	2
+太|ADV 困難|ADJ 了|O 吧|O	2
+最|ADV 困難|ADJ 的|O 事|N	5
+太|ADV 困難|ADJ 的|O 事|N	2
+很|ADV 困難|ADJ 的|O 事|N	12
+最|ADV 困難|ADJ 的|O 就|ADV 是|V	4
+最|ADV 困難|ADJ 的|O 就|ADV	4
+最|ADV 困難|ADJ 的|O	71
+更|ADV 困難|ADJ 了|O	7
+就|ADV 困難|ADJ 了|O	7
+最|ADV 困難|ADJ 的|O	6
+很|ADV 困難|ADJ 吧|O	5
+更|ADV 困難|ADJ 的|O	4
+挺|ADV 困難|ADJ 的|O	4
+很|ADV 困難|ADJ 了|O	4
+太|ADV 困難|ADJ 的|O	4
+較|ADV 困難|ADJ 的|O	3
+很|ADV 困難|ADJ 的|O	27
+太|ADV 困難|ADJ 了|O	22
+越|ADV 困難|ADJ 了|O	2
+滿|ADV 困難|ADJ 的|O	2
+極|ADV 困難|ADJ 的|O	2
+最|ADV 困難|ADJ 之|O	2
+很|ADV 困難|ADJ 啊|O	2
+太|ADV 困難|ADJ 了|O	2
+夠|ADV 困難|ADJ 了|O	2
+多|ADV 困難|ADJ 的|O	2
+很|ADV 困難|ADJ 的|O	12
+最|ADV 困難|ADJ 也|ADV 最|ADV	2
+最|ADV 困難|ADJ 也|ADV	3
+最|ADV 困難|ADJ	91
+要|ADV 困難|ADJ	9
+越|ADV 困難|ADJ	7
+較|ADV 困難|ADJ	6
+多|ADV 困難|ADJ	6
+也|ADV 困難|ADJ	6
+不|ADV 困難|ADJ	51
+愈|ADV 困難|ADJ	5
+挺|ADV 困難|ADJ	4
+又|ADV 困難|ADJ	4
+太|ADV 困難|ADJ	38
+更|ADV 困難|ADJ	31
+還|ADV 困難|ADJ	3
+極|ADV 困難|ADJ	3
+會|ADV 有害|ADJ	3
+則|ADV 有害|ADJ	3
+也|ADV 有害|ADJ	3
+頗|ADV 困難|ADJ	2
+都|ADV 有害|ADJ	2
+真|ADV 困難|ADJ	2
+滿|ADV 困難|ADJ	2
+最|ADV 有害|ADJ	2
+將|ADV 有害|ADJ	2
+夠|ADV 困難|ADJ	2
+再|ADV 困難|ADJ	2
+很|ADV 困難|ADJ	190
+就|ADV 困難|ADJ	13
+都|ADV 困難|ADJ	10
+就|ADV 是|V 應付|V 困難|ADJ	2
+不|ADV 怕|V 任何|O 困難|N	2
+就|ADV 是|V 困難|N 所在|N	2
+就|ADV 是|V 困難|N	2
+並|ADV 無|V 困難|N	2
+不|ADV 是|V 那麼|ADV 困難|ADJ 的|O	2
+都|ADV 是|V 非常|ADV 困難|ADJ	3
+不|ADV 是|V 那麼|ADV 困難|ADJ	2
+不|ADV 是|V 十分|ADV 困難|ADJ	2
+不|ADV 是|V 困難|ADJ 紛至沓|ADJ 來|O	2
+不|ADV 是|V 困難|ADJ 紛至沓|ADJ	2
+不|ADV 是|V 普通|ADJ 困難|N	2
+都|ADV 是|V 有害|ADJ 無益|ADJ	2
+就|ADV 是|V 困難|ADJ 的|O	2
+也|ADV 是|V 有害|ADJ 的|O	2
+也|ADV 是|V 困難|ADJ 的|O	2
+不|ADV 怕|V 困難|ADJ 的|O	2
+都|ADV 是|V 有害|ADJ	4
+不|ADV 是|V 困難|ADJ	4
+都|ADV 感|V 困難|ADJ	3
+都|ADV 是|V 困難|ADJ	2
+越|ADV 覺|V 困難|ADJ	2
+最|ADV 是|V 困難|ADJ	2
+更|ADV 是|V 困難|ADJ	2
+就|ADV 是|V 困難|ADJ	2
+也|ADV 是|V 有害|ADJ	2
+也|ADV 是|V 困難|ADJ	2
+不|ADV 怕|V 困難|ADJ	12
+來|ADV 說|V 是|V 有害|ADJ	2
+又|ADV 是|V 另|O 一|O 困難|ADJ	2
+才|ADV 是|V 最|ADV 困難|ADJ 的|O	2
+不|ADV 是|V 很|ADV 困難|ADJ 的|O	2
+不|ADV 是|V 太|ADV 困難|ADJ 的|O	2
+才|ADV 是|V 最|ADV 困難|ADJ	3
+也|ADV 是|V 最|ADV 困難|ADJ	2
+不|ADV 是|V 很|ADV 困難|ADJ	2
+不|ADV 是|V 太|ADV 困難|ADJ	2
+來|ADV 說|V 也|ADV 是|V 困難|ADJ	2
+總|ADV 有|O 許多|O 困難|N 要|ADV	2
+就|ADV 有|O 許多|O 困難|N	4
+總|ADV 有|O 許多|O 困難|N	2
+都|ADV 對|O 身體|N 有害|ADJ	2
+也|ADV 有|O 困難|N	8
+均|ADV 有|O 困難|N	5
+確|ADV 有|O 困難|N	4
+都|ADV 有|O 困難|N	24
+還|ADV 有|O 困難|N	2
+就|ADV 有|O 困難|N	2
+仍|ADV 有|O 困難|N	2
+亦|ADV 有|O 困難|N	2
+會|ADV 有|O 困難|N	10
+就|ADV 有|O 困難|ADJ 了|O	3
+都|ADV 有|O 困難|ADJ 了|O	2
+都|ADV 有|O 困難|ADJ	4
+就|ADV 有|O 困難|ADJ	3
+會|ADV 有|O 困難|ADJ	2
+尚|ADV 有|O 困難|ADJ	2
+也|ADV 會|ADV 從中|ADV 看到|V 困難|ADJ	2
+並|ADV 不|ADV 那麼|ADV 困難|ADJ	2
+則|ADV 會|ADV 產生|ADJ 學習|V 困難|ADJ	2
+就|ADV 更|ADV 困難|ADJ 了|O	6
+也|ADV 很|ADV 困難|ADJ 吧|O	3
+也|ADV 太|ADV 困難|ADJ 了|O	2
+就|ADV 更|ADV 困難|ADJ	8
+並|ADV 不|ADV 困難|ADJ	43
+會|ADV 很|ADV 困難|ADJ	4
+卻|ADV 很|ADV 困難|ADJ	4
+也|ADV 不|ADV 困難|ADJ	4
+也|ADV 最|ADV 困難|ADJ	3
+也|ADV 太|ADV 困難|ADJ	3
+都|ADV 很|ADV 困難|ADJ	20
+還|ADV 要|ADV 困難|ADJ	2
+更|ADV 要|ADV 困難|ADJ	2
+又|ADV 很|ADV 困難|ADJ	2
+也|ADV 很|ADV 困難|ADJ	18
+就|ADV 很|ADV 困難|ADJ	10
+就|ADV 越|ADV 覺|V 困難|ADJ	2
+並|ADV 不|ADV 是|V 很|ADV 困難|ADJ	2
+本|ADV 就|ADV 有|O 許多|O 困難|N	2
+都|ADV 會|ADV 有|O 困難|N	5
+最|ADV 大|ADJ 困難|N 是|V	3
+最|ADV 大|ADJ 困難|N	6
+極|ADV 大|ADJ 困難|N	2
+很|ADV 大|ADJ 困難|N	2
+最|ADV 大|ADJ 的|O 困難|N 在於|V	2
+最|ADV 大|ADJ 的|O 困難|N 是|V	9
+最|ADV 大|ADJ 的|O 困難|N 在|O	2
+再|ADV 大|ADJ 的|O 困難|N 和|O	2
+最|ADV 大|ADJ 的|O 困難|N 不|ADV	2
+再|ADV 大|ADJ 的|O 困難|N	3
+最|ADV 大|ADJ 的|O 困難|N	29
+更|ADV 大|ADJ 的|O 困難|N	2
+多|ADV 大|ADJ 的|O 困難|N	2
+不|ADV 通|ADJ 的|O 困難|N	2
+很|ADV 大|ADJ 的|O 困難|N	15
+極|ADV 大|ADJ 的|O 困難|N	12
+大|ADJ 困難|N 是|V	3
+小|ADJ 挫折|N 和|O 大|ADJ 困難|N	2
+大|ADJ 困難|N	20
+大|ADJ 的|O 困難|N 在於|V	3
+大|ADJ 的|O 困難|N 是|V 如何|ADV	2
+大|ADJ 的|O 困難|N 是|V	10
+大|ADJ 的|O 困難|N 和|O 阻礙|N	2
+大|ADJ 的|O 困難|N 在|O 人|N	2
+大|ADJ 的|O 困難|N 和|O	4
+大|ADJ 的|O 困難|N 在|O	2
+大|ADJ 的|O 困難|N 不|ADV 是|V	2
+大|ADJ 的|O 困難|N 不|ADV	2
+大|ADJ 的|O 困難|N	68
+新|ADJ 的|O 困難|N	4
+通|ADJ 的|O 困難|N	2
+變|ADJ 得|O 非常|ADV 困難|ADJ	2
+變|ADJ 得|O 困難|ADJ	2
+變|ADJ 得|O 更|ADV 困難|ADJ	2
+單|ADJ 盤|N 仍|ADV 有|O 困難|N	2
